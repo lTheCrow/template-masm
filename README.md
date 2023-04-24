@@ -3,7 +3,7 @@
 ## Install:
 
 1. Clone repository
-2. Install Visual Studio 2022
+2. Install Visual Studio 2022: https://visualstudio.microsoft.com/es/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false
 3. Install MASM32 SDK in C:\
 4. Set C:\masm32\bin in PATH
 5. Install emu8086 in C:\
